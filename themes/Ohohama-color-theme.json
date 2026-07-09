@@ -23,7 +23,6 @@
 		"menu.selectionBorder": "#080d10",
 		"panel.border": "#080d1060",
 		"panelTitle.border": "#080d10",
-		"list.border": "#080d10",
 		"widget.border": "#080d10",
 		"window.activeBorder": "#080d10",
 		"debugToolBar.border": "#080d10",
@@ -65,7 +64,7 @@
 		"focusBorder": "#080d10",
 		"diffEditor.removedLineBackground": "#6d6d6d60",
 		"list.dropBackground": "#6d6d6d60",
-		"diffEditor.insertedLineBackground": "#264d87",
+		"diffEditor.insertedLineBackground": "#264d879b",
 		"gitDecoration.untrackedResourceForeground": "#555353",
 		"gitDecoration.deletedResourceForeground": "#555353",
 		"gitDecoration.modifiedResourceForeground": "#33a7e4",
@@ -101,7 +100,7 @@
 		"#ffffff",
 		"#ffffff",
 		"#ffffff"
-	]
+	],
 	"tokenColors": [
 		{
 			"scope": "emphasis",
