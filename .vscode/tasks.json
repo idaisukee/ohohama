@@ -7,6 +7,15 @@
             "label": "pack",
             "type": "shell",
             "command": "vsce package"
+        },
+        {
+            "label": "install",
+            "type": "process",
+            "command": "code",
+            "args": [
+                "--install-extension",
+                "${workspaceFolder}/ohohama-0.0.1.vsix"
+            ]
         }
     ]
 }
