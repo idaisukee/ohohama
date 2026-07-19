@@ -2,7 +2,6 @@
 
 import { semantic } from "../semantic.js";
 import type { ThemeColors } from "../generated/theme-colors.js";
-import { palette } from "../palette.js";
 
 export const gitColors = {
     "gitDecoration.addedResourceForeground": semantic.added,

@@ -13,8 +13,6 @@ export const copilotColors = {
     "inlineChatInput.focusBorder": semantic.border,
     "inlineChatInput.placeholderForeground": semantic.placeholder,
     "inlineEdit.gutterIndicator.background": semantic.background,
-    "inlineEdit.gutterIndicator.border": semantic.border,
-    "inlineEdit.gutterIndicator.foreground": semantic.foreground,
     "inlineEdit.gutterIndicator.primaryBackground": semantic.accent,
     "inlineEdit.gutterIndicator.primaryBorder": semantic.zero,
     "inlineEdit.gutterIndicator.primaryForeground": semantic.foreground,

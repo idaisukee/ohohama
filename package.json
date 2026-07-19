@@ -2,13 +2,16 @@
   "name": "ohohama",
   "displayName": "ohohama",
   "description": "Ohohama blue color theme",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "publisher": "ieremius",
   "type": "module",
   "scripts": {
     "watch": "tsx watch src/build.ts",
     "generate:theme-colors": "tsx scripts/generate-theme-colors.ts",
-    "build": "npm run generate:theme-colors && tsx src/build.ts"
+    "build": "npm run generate:theme-colors && tsx src/build.ts",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "typecheck": "tsc --noEmit"
   },
   "repository": {
     "type": "git",
@@ -35,8 +38,13 @@
     ]
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@types/node": "^26.1.1",
+    "eslint": "^10.7.0",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.9.5",
     "tsx": "^4.23.1",
-    "typescript": "^7.0.2"
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.64.0"
   }
 }

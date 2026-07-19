@@ -11,7 +11,6 @@ import { listColors } from "./list.js";
 import { mapColors } from "./map.js";
 import { panelColors } from "./panel.js";
 import { sideBarColors } from "./side-bar.js";
-import { statusColors } from "./status.js";
 import { tabColors } from "./tab.js";
 import { terminalColors } from "./terminal.js";
 import { tokenColors } from "./token-colors.js";
@@ -29,7 +28,6 @@ export const colors = {
   ...mapColors,
   panelColors,
   ...sideBarColors,
-  ...statusColors,
     tabColors,
   ...terminalColors,
   ...workbenchColors,

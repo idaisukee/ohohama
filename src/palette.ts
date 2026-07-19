@@ -70,4 +70,4 @@ export const palette = {
     ]
 } as const;
 
-export type Palette = typeof Palette;
+export type Palette = typeof palette;
