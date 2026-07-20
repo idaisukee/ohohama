@@ -6,12 +6,14 @@ import { semantic } from "../semantic.js";
 export const terminalColors = {
     "terminal.background": semantic.terminal.background,
     "terminal.foreground": semantic.foreground,
-    "terminal.ansiYellow": semantic.ansi.yellow,
-    "terminal.ansiBlue": semantic.ansi.blue,
-    "terminal.ansiMagenta": semantic.ansi.magenta,
-    "terminal.ansiCyan": semantic.ansi.cyan,
-    "terminal.ansiWhite": semantic.ansi.white,
     "terminal.ansiBlack": semantic.ansi.black,
+    "terminal.ansiWhite": semantic.ansi.white,
+    "terminal.ansiBlue": semantic.ansi.blue,
+    "terminal.ansiCyan": semantic.ansi.cyan,
+    "terminal.ansiGreen": semantic.ansi.green,
+    "terminal.ansiMagenta": semantic.ansi.magenta,
+    "terminal.ansiRed": semantic.ansi.red,
+    "terminal.ansiYellow": semantic.ansi.yellow,
     "terminal.ansiBrightBlack": semantic.ansi.brightBlack,
     "terminal.ansiBrightWhite": semantic.ansi.brightWhite,
     "terminal.ansiBrightBlue": semantic.ansi.brightBlue,
@@ -20,4 +22,4 @@ export const terminalColors = {
     "terminal.ansiBrightMagenta": semantic.ansi.brightMagenta,
     "terminal.ansiBrightRed": semantic.ansi.brightRed,
     "terminal.ansiBrightYellow": semantic.ansi.brightYellow,
- } satisfies ThemeColors;
+} satisfies ThemeColors;
