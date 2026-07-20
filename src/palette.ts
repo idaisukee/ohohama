@@ -10,7 +10,7 @@ import {
 const tonal = [
     TonalPalette.fromHueAndChroma(220, 100),
     TonalPalette.fromHueAndChroma(245, 100),
-    TonalPalette.fromHueAndChroma(275, 100),
+    TonalPalette.fromHueAndChroma(270, 50),
     TonalPalette.fromHueAndChroma(250, 0),
 ];
 
