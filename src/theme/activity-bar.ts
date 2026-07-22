@@ -8,17 +8,17 @@ export const activityBarColors = {
     "activityBarBadge.background": semantic.info,
 
     "activityBarBadge.foreground": semantic.foreground,
-    "activityBar.border": semantic.border,
+    "activityBar.border": semantic.zero,
 
 
     "activityBar.activeBackground": semantic.background,
-    "activityBar.activeBorder": semantic.border,
-    "activityBar.activeFocusBorder": semantic.border,
-    "activityBar.dropBorder": semantic.border,
+    "activityBar.activeBorder": semantic.zero,
+    "activityBar.activeFocusBorder": semantic.zero,
+    "activityBar.dropBorder": semantic.zero,
     "activityBarTop.activeBackground": semantic.background,
-    "activityBarTop.activeBorder": semantic.border,
+    "activityBarTop.activeBorder": semantic.zero,
     "activityBarTop.background": semantic.background,
-    "activityBarTop.dropBorder": semantic.border,
+    "activityBarTop.dropBorder": semantic.zero,
     "activityBarTop.foreground": semantic.foreground,
     "activityBarTop.inactiveForeground": semantic.inactive,
 } satisfies ThemeColors;
