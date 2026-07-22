@@ -44,3 +44,11 @@ npm run generate:theme-colors
 ## License
 
 MIT
+
+## About Ohohama Beach
+
+Ohohama Beach was once one of the most beloved places in **Shizuoka, Japan**. For generations, it served as a gathering place for local residents, a playground where children spent their summer days, and a destination where families and friends created lasting memories by the sea.
+
+Although the beach itself has changed over time, it continues to hold a special place in the hearts of many people in Shizuoka. The name *Ohohama* evokes memories of the blue sea, the open sky, and peaceful days along the coast.
+
+The Ohohama Theme is inspired by these memories and by the calm atmosphere of the beach. Its restrained palette of blues and grays reflects the colors of the sea and sky, creating a comfortable environment for long coding sessions.
