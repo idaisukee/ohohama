@@ -16,7 +16,7 @@ Ohohama Theme aims to provide a comfortable coding environment with cool blue to
 
 ## Screenshots
 
-![Ohohama Theme](images/screenshot-ts.png)
+![Ohohama Theme](images/screenshot.png)
 
 ## Installation
 
