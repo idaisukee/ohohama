@@ -67,5 +67,5 @@ export const semantic = {
         constant: palette.blue[7],
         number: palette.blue[9],
     },
-    order: palette.gray
+    order: palette.blue?.slice(-10)
 } as const;

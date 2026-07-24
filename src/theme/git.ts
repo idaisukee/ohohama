@@ -20,7 +20,7 @@ export const gitColors = {
     "scmGraph.foreground3": semantic.order[3],
     "scmGraph.foreground4": semantic.order[4],
     "scmGraph.foreground5": semantic.order[5],
-    "scmGraph.historyItemBaseRefColor": semantic.foreground,
+    "scmGraph.historyItemBaseRefColor": semantic.accent,
     "scmGraph.historyItemHoverAdditionsForeground": semantic.added,
     "scmGraph.historyItemHoverDefaultLabelBackground": semantic.hover,
     "scmGraph.historyItemHoverDefaultLabelForeground": semantic.accent,
