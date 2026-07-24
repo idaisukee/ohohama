@@ -16,7 +16,7 @@ export const ramps = tonal.map(p =>
     Array.from({ length: 20 }, (_, i) =>
         hexFromArgb(p.tone(i * 5))
     )
-);
+) as const;
 
 const [lights, blues, darks, grays] = ramps;
 
